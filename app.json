@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "laundry-app",
-    "slug": "laundry-app",
+    "name": "WashWish",
+    "slug": "WashWish",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
